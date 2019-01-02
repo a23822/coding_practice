@@ -1,0 +1,6 @@
+def solution(participant, completion):
+    for i in range(len(participant)):
+        if participant(i)
+    
+    answer = ''
+    return answer
